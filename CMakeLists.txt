@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
 
-project(fcitx-table-extra NONE)
+project(fcitx-table-dayi NONE)
 
 find_package(Fcitx 4.2.7 REQUIRED)
 find_program(TXT2MB txt2mb REQUIRED)

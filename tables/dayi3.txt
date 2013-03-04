@@ -1,4 +1,4 @@
-Length=4
+Length=3
 KeyCode=,./;'1234567890-abcdefghijklmnopqrstuvwxyz
 [Data]
 1	言
