@@ -1,5 +1,5 @@
-et(PO_LANGS zh_CN zh_TW)
+set(PO_LANGS zh_CN zh_TW)
 foreach(lang ${PO_LANGS})
   fcitx_translate_add_po_file("${lang}" "${lang}.po")
 endforeach()
-fcitx_translate_set_pot_target(pot fcitx-table-extra fcitx-table-extra.pot)
+fcitx_translate_set_pot_target(pot fcitx-table-dayi fcitx-table-dayi.pot)
