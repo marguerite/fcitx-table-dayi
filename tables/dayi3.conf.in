@@ -1,0 +1,21 @@
+[CodeTable]
+UniqueName=dayi3
+_Name=Dayi ver3
+IconName=dayi3
+File=dayi3.mb
+AdjustOrder=AdjustFreq
+Priority=100
+UsePY=False
+AutoSend=1
+NoneMatchAutoSend=0
+UseMatchingKey=False
+AutoPhrase=True
+AutoPhraseLength=4
+AutoPhrasePhrase=False
+SaveAutoPhrase=3
+ExactMatch=False
+PromptTableCode=False
+Symbol=
+Enabled=True
+IgnorePunc=True
+LangCode=zh_TW

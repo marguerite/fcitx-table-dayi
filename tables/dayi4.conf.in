@@ -1,0 +1,21 @@
+[CodeTable]
+UniqueName=dayi4
+_Name=Dayi ver4
+IconName=dayi4
+File=dayi4.mb
+AdjustOrder=AdjustFreq
+Priority=100
+UsePY=False
+AutoSend=1
+NoneMatchAutoSend=0
+UseMatchingKey=False
+AutoPhrase=True
+AutoPhraseLength=4
+AutoPhrasePhrase=False
+SaveAutoPhrase=3
+ExactMatch=False
+PromptTableCode=False
+Symbol=
+Enabled=True
+IgnorePunc=True
+LangCode=zh_TW

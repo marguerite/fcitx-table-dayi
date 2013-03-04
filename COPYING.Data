@@ -1,0 +1,27 @@
+# 本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。
+# 使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格
+# 的格式以適合其他平台或輸入法軟體使用。
+
+Translation:
+
+These tables are authorized by Dayi Software Corp (http://www.dayi.com).
+They are open to download and use.
+You can not change the encoding rule of any character in these tables,
+and then redistribute with the modified encoding rules. 
+But you can change the format of these tables for other OS platforms 
+or input method frameworks and redistribute.
+
+==========================================
+
+Explanation:
+
+It's reasonable not to give permission to change the "encoding rule"
+which are basically mappings. If you change the mapping:
+1. the core of any table input method is the table/mappings itself. 
+If you change it, it'll no longer be that input method.
+2. the modified mappings will surely not be compatible with Dayi's product
+on Windows platform and may even not be usable. both cases will hurt
+the name of Dayi.
+
+Bascially, those tables are freeware and can be licensed under SUSE-Freeware 
+or similar licenses.

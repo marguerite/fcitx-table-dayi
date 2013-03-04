@@ -1,0 +1,25 @@
+# Copyright (C) 2013 Fcitx, http://fcitx-im.org
+# This file is distributed under the same license as the fcitx-table-dayi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-28 01:14+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE CODE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: tables/dayi3.conf.in:3
+msgid "Dayi ver3"
+msgstr ""
+
+#: tables/dayi4.conf.in:3
+msgid "Dayi ver4"
+msgstr ""

@@ -1,0 +1,25 @@
+# Copyright (C) 2013 Fcitx, http://fcitx-im.org
+# This file is distributed under the same license as the fcitx-table-dayi package.
+# Marguerite Su <marguerite@opensuse.org>, 2013.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-28 01:14+0100\n"
+"PO-Revision-Date: 2013-03-04 12:43+0800\n"
+"Last-Translator: marguerite <marguerite@opensuse.org>\n"
+"Language-Team: Traditional Chinese <opensuse-zh@opensuse.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: tables/dayi3.conf.in:3
+msgid "Dayi ver3"
+msgstr "大易三碼"
+
+#: tables/dayi4.conf.in:3
+msgid "Dayi ver4"
+msgstr "大易四碼"
